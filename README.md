@@ -1,9 +1,9 @@
 # Sistema de Cadastro de Jogos
 
-> Sistema em desenvolvimento
+> Sistema: Em desenvolvimento
 
 Para rodar esse projecto na sua máquina execute:
 
-´´´
+```
 node app.js
-´´´
+```
